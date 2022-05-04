@@ -9,4 +9,13 @@ Marquicha Green / Kindergarten Computer Science Education
 
 ## Project Components:
 
-[GitHub Pages](https://pages.github.com/).
+[Component 1: Project Considerations](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/Project%20Comp%20%231%20copy.docx).
+
+[Component 2: Draft Project Proposal](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/ghpages/Project%20Component%20%232%20Draft%20Proposal.docx)
+
+[Component 3: Group Project Proposal](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/ghpages/Project%20Component%20%233%20Draft%20Proposal.docx)
+
+[Component 4: Project Design Specification and Evaluation](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/ghpages/Project%20Component%20%234.docx)
+
+[Component 5: Intermediate Project Prototype
+](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/Project%20Presentation%20.pptx)
