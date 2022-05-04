@@ -18,4 +18,9 @@ Marquicha Green / Kindergarten Computer Science Education
 [Component 4: Project Design Specification and Evaluation](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/ghpages/Project%20Component%20%234.docx)
 
 [Component 5: Intermediate Project Prototype
-](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/Project%20Presentation%20.pptx)
+](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/047F85ED-82F5-48E9-BA4A-93181C742AD8.mov)
+
+[Component 6: Final Prototype Presentations](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/Project%20Presentation%20.pptx)
+
+[Component 7: Project Website and Video]
+
