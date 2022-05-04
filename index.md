@@ -23,3 +23,6 @@ Marquicha Green / Kindergarten Computer Science Education
 
 [Component 7: Project Website and Video](https://marquicha.github.io/NoCOMPromiseLearning.io/) 
 
+<video src="https://user-images.githubusercontent.com/90740354/166620487-2ec8aa48-3cbc-474a-af17-94804308efc9.mov" controls="controls" style="max-width: 730px;">
+</video>
+
