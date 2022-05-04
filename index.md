@@ -21,5 +21,5 @@ Marquicha Green / Kindergarten Computer Science Education
 
 [Component 6: Final Prototype Presentations](https://github.com/Marquicha/NoCOMPromiseLearning.io/blob/gh-pages/Project%20Presentation%20.pptx)
 
-[Component 7: Project Website and Video]
+[Component 7: Project Website and Video](https://marquicha.github.io/NoCOMPromiseLearning.io/) 
 
